@@ -1,5 +1,5 @@
 # html-tips
-https://www-yotta.github.io/html-tips/
+HTML/CSSのTipsをまとめたものです。
 
 ## form
 ### ラジオボタンのカスタマイズ
