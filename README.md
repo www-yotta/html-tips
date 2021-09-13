@@ -2,4 +2,6 @@
 https://www-yotta.github.io/html-tips/
 
 ## form
-[ラジオボタンのカスタマイズ](https://www-yotta.github.io/html-tips/form/radio-custom.html)
+### ラジオボタンのカスタマイズ
+- [demo](https://www-yotta.github.io/html-tips/form/radio-custom.html)
+- [code](https://github.com/www-yotta/html-tips/blob/main/form/radio-custom.html)
